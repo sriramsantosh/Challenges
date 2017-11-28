@@ -1,4 +1,4 @@
-package com.intuit.challenges;
+package com.prework.challenges;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,7 +21,7 @@ public class KthSmallestElement {
 		a.add(4);
 		a.add(3);
 		a.add(2);
-		System.out.println(findKthSmallest(a,5));
+		System.out.println(findKthSmallest(a,2));
 	}
 
 	/**

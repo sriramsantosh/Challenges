@@ -1,4 +1,4 @@
-package com.intuit.challenges;
+package com.prework.challenges;
 
 import java.util.ArrayList;
 
